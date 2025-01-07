@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Coordinator.start():Coordinator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rootViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Show.getFormattedSchedule():ShowModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(format: Constants.String.scheduleDayTime, [stringDays, time, runtime])">
+            </PersistentString>
+            <PersistentString
+               value = "schedule">
+            </PersistentString>
+            <PersistentString
+               value = "runtime">
+            </PersistentString>
+            <PersistentString
+               value = "Constants.String.scheduleDay">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShowDetailsViewController.tableView(_:numberOfRowsInSection:):ShowDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.showEpisodeList.filter { $0.season == viewModel.seasons[section] }.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ShowDetailsViewController.tableView(_:numberOfRowsInSection:):ShowDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.showEpisodeList.filter { $0.season == viewModel.seasons[section] }.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShowDetailsViewController.tableView(_:cellForRowAt:):ShowDetailsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.coordinator.getter:ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShowListViewModel.searchShows(_:):ShowListViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ShowDetailsViewController.sectionIndexTitles(for:):ShowDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.seasons.map { String(format: Constants.String.season, $0) }">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ShowDetailsViewModel.fetchEpisodeList():ShowDetailsViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.seasons">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ShowListViewModel.fetchShows():ShowListViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self?.showList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShowDetailsViewModel.fetchEpisodeList():ShowDetailsViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+            <PersistentString
+               value = "seasons">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
